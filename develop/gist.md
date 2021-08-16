@@ -25,4 +25,5 @@ Code:   let str = "JavaScript';
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Brent is a web developer attending the UCLA coding boot camp who has been working in the tech industries for a little over a year. he has built and maintained multiple websites in his short period in this career. 
+His folwing git hub for his work is located here: https://github.com/brentb5280/regex-tutorial-
